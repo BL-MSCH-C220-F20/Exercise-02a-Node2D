@@ -1,7 +1,7 @@
 # Exercise-02a-Node2D
 Exercise for MSCH-C220, 8 September 2020
 
-This exercise is the first time for you to get your feet wet with Godot. The purpose is to introduce you to the notions of 2D translation, rotation, and scale and for you to see how they operate in Godot. 
+This exercise is the first opportunity for you to get your feet wet with Godot. Its purpose is to introduce you to the notions of 2D translation, rotation, and scale and for you to see how they operate in Godot. 
 
 First, be sure you have downloaded and installed the appropriate version of [Godot 3.2.2](https://godotengine.org/download) for your computer. Most likely, you will want the 64-bit version (only install the 32-bit version if the 64-bit doesn't run). 
 
