@@ -38,7 +38,7 @@ Also, in the `_physics_process(delta):` function, add this as the next lines aft
 ```
 These should also be indented with a single tab.
 
-Save the script and run the game again. The parent Node2D is now oscillating by 600 pixels (in both dimensions) around the origin. How does that change how the Player is tracking the mouse?
+Save the script and run the game again. The parent Node2D is now oscillating by 600 pixels (in both dimensions) around the origin. How does that change how the Player is responding to the mouse?
 
 Next, let's add scaling. Replace the scaling function with the following:
 ```
